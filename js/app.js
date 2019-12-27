@@ -202,7 +202,6 @@ function Score() {
 var score = new Score()
 score.appendToApp()
 
-
 var music = new Audio()
 music.src = './audio/music.mp3'
 music.load()
